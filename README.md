@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Röhe. I'm currently a full stack student at Trybe</h1>
 <p>I'm a Clinical Psychologist for ten years with chapters and articles published in Portuguese and English in prestigious scientific journals and publishing houses. I have also given many speeches in international conferences at the USA, UK, Finland, Greece, Iceland, Lithuania and Brazil.</p>
 <p>Furthermore, I have experience with statistical analysis of distance education courses, with focus on student's engagement and evasion</p>
-<p>Recently, I began to learn more about Linux, programming language and TDD.</p>
+<p>In 2022, I began to learn more about programming language, TDD and Linux, developing systems sometimes by myself, and sometimes in group</p>
 <p>email: psicologo.rohe@gmail.com</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
